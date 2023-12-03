@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pokemon.domain.moves.DamageMoveTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-21T17:14:31" hostname="lonewanderer" time="0.002">
+  <properties/>
+  <testcase name="Testira da li napadačka vještina čini 2x količinu štete (smanjenje HP-a) protiv osjetljivog tipa Pokemona, i da li vraća očekivanu poruku" classname="pokemon.domain.moves.DamageMoveTest" time="0.001"/>
+  <testcase name="Testira da li napadačka vještina čini očekivanu količinu štete (smanjenje HP-a za 20 u ovom slučaju), i da li vraća očekivanu poruku" classname="pokemon.domain.moves.DamageMoveTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pokemon.PotionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-21T17:14:31" hostname="lonewanderer" time="0.007">
+  <properties/>
+  <testcase name="Testira da li korištenje napitka NE povisuje HP Pokemona koji je već pri punom HP-u" classname="pokemon.PotionTest" time="0.001"/>
+  <testcase name="Testira da li korištenje napitka vraća očekivanu poruku" classname="pokemon.PotionTest" time="0.003"/>
+  <testcase name="Testira da li korištenje napitka ozdravlja Pokemona (postavljanjem nove vrijednosti HP-a)" classname="pokemon.PotionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

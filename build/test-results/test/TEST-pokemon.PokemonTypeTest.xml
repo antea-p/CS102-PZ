@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pokemon.PokemonTypeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-03-21T17:14:31" hostname="lonewanderer" time="0.004">
+  <properties/>
+  <testcase name="Testira jesu li Fire vještine posebno učinkovite protiv Grass tipa Pokemona" classname="pokemon.PokemonTypeTest" time="0.001"/>
+  <testcase name="Testira jesu li Water vještine posebno učinkovite protiv Fire tipa Pokemona" classname="pokemon.PokemonTypeTest" time="0.0"/>
+  <testcase name="Testira da Normal tip vještine NIJE posebno učinkovit protiv Grass, Fire, Water ili Normal tipa Pokemona" classname="pokemon.PokemonTypeTest" time="0.0"/>
+  <testcase name="Testira jesu li Grass vještine posebno učinkovite protiv Water tipa Pokemona" classname="pokemon.PokemonTypeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

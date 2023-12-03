@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pokemon.PokemonTransformerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-21T17:14:31" hostname="lonewanderer" time="0.006">
+  <properties/>
+  <testcase name="Testiranje da se pravilno vrši konverzija PokemonMoveData objekata u listu Move objekata" classname="pokemon.PokemonTransformerTest" time="0.003"/>
+  <testcase name="Testiranje valjanosti atributa name, health i maxHealth dobivenog PokemonData objekta" classname="pokemon.PokemonTransformerTest" time="0.001"/>
+  <testcase name="Testiranje valjanosti broja vrste dobivenog PokemonData objekta" classname="pokemon.PokemonTransformerTest" time="0.0"/>
+  <testcase name="Testiranje valjanosti naziva vrste i tipa vrste dobivenog Pokemon objekta" classname="pokemon.PokemonTransformerTest" time="0.0"/>
+  <testcase name="Testiranje da se pravilno vrši konverzija Move objekata u listu PokemonMoveData objekata" classname="pokemon.PokemonTransformerTest" time="0.001"/>
+  <testcase name="Testiranje valjanosti atributa name, health i maxHealth dobivenog Pokemon objekta" classname="pokemon.PokemonTransformerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
